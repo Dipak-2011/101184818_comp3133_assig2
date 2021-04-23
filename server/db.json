@@ -1,0 +1,40 @@
+{
+  "hotel": [
+    {
+      "id": 1,
+      "name": "Hilton Toronto",
+      "address": "145 Richmond St W, Toronto, ON M5H 2L2",
+      "telephone": "(416) 869-3456",
+      "email": "hilton@hilton.com"
+    },
+    {
+      "name": "Delta Hotels by Marriott Toronto",
+      "Address": "75 Lower Simcoe St, Toronto, ON M5J 3A6",
+      "email": "delta@delta.com",
+      "id": 3
+    },
+    {
+      "name": "a",
+      "Address": "aa",
+      "email": "ac@ac.com",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "name": "InterContinental Toronto Centre",
+      "address": "225 Front St W, Toronto, ON M5V 2X3",
+      "telephone": "(416) 597-1400",
+      "email": "continental@continental.com",
+      "id": 7
+    },
+    {
+      "name": "The Tower Hotel",
+      "address": "6732 Fallsview Blvd, Niagara Falls, ON L2G 3W6",
+      "telephone": "+1 866-325-5784",
+      "email": "tower@tower.com",
+      "id": 8
+    }
+  ]
+}
